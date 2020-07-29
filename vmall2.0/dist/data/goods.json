@@ -1,0 +1,360 @@
+[
+    {"title":"新品",
+        "name":"newProduct",
+        "subTitles":["HUAWEI Mate系列","HUAWEI nova系列","华为畅享系列","华为V系列","华为HONOR系列","华为X系列","HUAWEI play系列"
+        ],
+        "goods":[
+            {
+                "goodsId":"1",
+                "img":"https://res.vmallres.com/pimages//pages/picImages/73730068049516003737.jpg",
+                "name":"最高特惠200 享6期免息  ",
+                "introduction":"HUAWEI FreeBuds 3 无线耳机",
+                "price":"¥699"
+            },{
+                "goodsId":"2",
+                "img":"https://res.vmallres.com/pimages//pages/picImages/GcsYv6B9jO5jZvHBjHm2.jpg",
+                "name":"最高特惠200 享6期免息  ",
+                "introduction":"HUAWEI FreeBuds 3 无线耳机",
+                "price":"¥699"
+            },{
+                "goodsId":"3",
+                "img":"https://res.vmallres.com/pimages//pages/picImages/35790532249513509753.png",
+                "name":"最高特惠200 享6期免息  ",
+                "introduction":"HUAWEI FreeBuds 3 无线耳机",
+                "price":"¥699"
+            },{
+                "goodsId":"3",
+                "img":"https://res.vmallres.com/pimages//pages/picImages/93809596549519590839.png",
+                "name":"最高特惠200 享6期免息  ",
+                "introduction":"HUAWEI FreeBuds 3 无线耳机",
+                "price":"¥699"
+            }
+        ]
+    },
+    {"title":"精品推荐",
+        "subTitles":["HUAWEI Mate系列","HUAWEI nova系列","华为畅享系列","华为V系列","华为HONOR系列","华为X系列","HUAWEI play系列"
+        ],
+        "goods":[
+            {
+            "goodsId":"57",
+            "img":"https://res0.vmallres.com/pimages//product/6901443399048/428_428_870B6FE27F5BF4867AEAF26DA9389FDBDECC5DB85D23154Fmp.png",
+            "name":"最高特惠200 享6期免息  ",
+            "introduction":"HUAWEI FreeBuds 3 无线耳机",
+            "price":"¥699"
+        },{
+            "goodsId":"58",
+            "img":"https://res0.vmallres.com/pimages//frontLocation/content/44496338249513369444.png",
+            "name":"hha",
+            "introduction":"【新色】荣耀平板V6",
+            "price":"¥2499"
+        },{
+            "goodsId":"59",
+            "img":"https://res0.vmallres.com/pimages//product/6972453160997/428_428_184B441A9E325CEB3B9DB407369725D3B269072768467E7Dmp.png",
+            "name":"直降100+赠鼠标+3期免息  ",
+            "introduction":"HUAWEI MateBook X Pro 2020款",
+            "price":"¥12899"
+        },{
+            "goodsId":"60",
+            "img":"https://res0.vmallres.com/pimages//product/6901443315819/428_428_CC6D09EC69753C356A4369E19A3036800E5F3BAA40E88AFDmp.png",
+            "name":"限时最高优惠200元   ",
+            "introduction":"华为平板 M6 10.8英寸",
+            "price":"¥2499"
+        },{
+            "goodsId":"61",
+            "img":"https://res0.vmallres.com/pimages//product/6901443401703/428_428_3EFFAFE02AAC4198AE9F88C17371D8E8B7CFFDF51569AA93mp.png",
+            "name":"最高优惠200元  ",
+            "introduction":"荣耀智慧屏X1系列 55英寸 4K超清全面屏 8K解码 鸿鹄818芯片 大小屏互动 高色域 开机",
+            "price":"¥2199"
+        }
+        ]
+      },
+    { "title":"热销单品",
+        "name":"hot",
+      "subTitles":["HUAWEI Mate系列","HUAWEI nova系列","华为畅享系列","华为V系列","华为HONOR系列","华为X系列","HUAWEI play系列"
+        ],
+      "goods":[
+          
+        {
+            "goodsId":"99",
+            "img":"https://res0.vmallres.com/pimages//frontLocation/content/72399017949511099327.png",
+            "name":"HUAWEI P40 Pro+",
+            "introduction":"享12期免息",
+            "price":"¥7988"
+        },
+            {
+            "goodsId":"62",
+            "img":"https://res0.vmallres.com/pimages//product/6901443398027/428_428_C5B3EEB31BA081CF605FE04A1118DEF332F4C3003CC60ECEmp.png",
+            "name":"HUAWEI P40 Pro+",
+            "introduction":"享12期免息",
+            "price":"¥7988"
+        },{
+            "goodsId":"63",
+            "img":"https://res0.vmallres.com/pimages//product/6901443391967/428_428_3F15B3F159FCB2929091EAD02F81B3E9156F0B2FE71F8433mp.png",
+            "name":"荣耀30",
+            "introduction":"最高省310元|部分赠配件|免息  ",
+            "price":"￥2999.00"
+        },{
+            "goodsId":"64",
+            "img":"https://res0.vmallres.com/pimages//product/6901443353361/428_428_6381399AD1BADEB91EBD63AF4EAE62016C58317DDEB7C5C4mp.png",
+            "name":"HUAWEI Mate 30 5G",
+            "introduction":"12期免息|赠多重好礼  ",
+            "price":"¥4499"
+        },{
+            "goodsId":"65",
+            "img":"https://res0.vmallres.com/pimages//product/6972453165220/428_428_11B9905C1BEED75A300A7A6B70612208DAA32DE91D8F7372mp.png",
+            "name":" 荣耀Play4 ",
+            "introduction":"6400万锐力四摄  ",
+            "price":"¥1999"
+        },{
+            "goodsId":"66",
+            "img":"https://res0.vmallres.com/pimages//product/6901443353279/428_428_F23055642D59B61C0038B9B6015570AC05A35A7E3838809Emp.png",
+            "name":"HUAWEI Mate 30 Pro 5G",
+            "introduction":"领券减100|12期免息  ",
+            "price":"¥6399"
+        },{
+            "goodsId":"67",
+            "img":"https://res0.vmallres.com/pimages//product/6972453164773/428_428_3350888FD6EA6D30D5F0E99DA3C0D0B15A3BD92523AF0F0Cmp.png",
+            "name":"荣耀X10 Max ",
+            "introduction":"享12期免息",
+            "price":"¥2099"
+        },{
+            "goodsId":"68",
+            "img":"https://res0.vmallres.com/pimages//product/6972453164971/428_428_AEEDD8A45E7E18EA7F10E0386C1104EEB994C561C391C803mp.png",
+            "name":"华为畅享Z 5G",
+            "introduction":"领券减100",
+            "price":"¥2199"
+        },{
+            "goodsId":"69",
+            "img":"https://res0.vmallres.com/pimages//product/6901443386451/428_428_E008716749454F878551D09785164FA1DD1742C36857F752mp.png",
+            "name":"荣耀 Play4T Pro",
+            "introduction":"全系优惠110元 ",
+            "price":"¥1399"
+        }]
+        
+
+    },
+    {"title":"手机",
+    "name":"mobile",
+    "subTitles":["HUAWEI Mate系列","HUAWEI nova系列","华为畅享系列","华为V系列","华为HONOR系列","华为X系列","HUAWEI play系列"
+    ],
+    "goods":[
+        {	
+            "goodsId":17,
+            "img":"https://res0.vmallres.com/pimages//frontLocation/content/29131318249511313192.jpg",
+            "name":"荣耀 Play4T",
+            "introduction":"整点购机赠耳机 ",
+            "price":"¥1199"
+        },
+        
+        {	"goodsId":18,
+            "img":"https://res0.vmallres.com/pimages//product/6901443387731/428_428_1DB7D2A4E023F52DC64AE021E52A83F43BC0524BE4E0387Fmp.png",
+            "name":"荣耀 Play4T",
+            "introduction":"整点购机赠耳机 ",
+            "price":"¥1199"
+        },
+        {	"goodsId":19,
+            "img":"https://res0.vmallres.com/pimages//product/6972453165077/428_428_C089F3BE3BD266BAC2B777E1190F59241E0CE65223CA694Bmp.png",
+            "name":"华为畅享20 Pro",
+            "introduction":"赠耳机|享6期免息  ",
+            "price":"¥1999"},
+        {	"goodsId":20,
+            "img":"https://res0.vmallres.com/pimages//product/6901443388141/428_428_AE2A1F00B7D98D94AAB55AD59800475D6ADFA000C71CA40Fmp.png",
+            "name":"荣耀30S 5G",
+            "introduction":"8GB版本限量送移动电源  ",
+            "price":"¥2399"},
+        {	"goodsId":21,
+            "img":"https://res0.vmallres.com/pimages//product/6901443356126/428_428_21A7667FA769CBD35B1B4977DF61F62E011DB64E3FDCA71Bmp.png",
+            "name":"HUAWEI nova 5z",
+            "introduction":"限时直降300  ",
+            "price":"¥1299"},
+        {	"goodsId":22,
+            "img":"https://res0.vmallres.com/pimages//product/6972453162526/428_428_7E78427DAD528145F81C899480925B4A833C3793651A5B90mp.png",
+            "name":"荣耀Play4 Pro",
+            "introduction":"最高优惠200 ",
+            "price":"¥2699"},
+        {	"goodsId":23,
+            "img":"https://res0.vmallres.com/pimages//product/6901443393039/428_428_7484AB32CD916B697FED5DE343A4384247FC1B9D7159B022mp.png",
+            "name":"荣耀Play4 Pro",
+            "introduction":"最高优惠200 ",
+            "price":"¥2699"},
+        
+        {	"goodsId":24,
+            "img":"https://res0.vmallres.com/pimages//product/6901443321339/428_428_1563503515663mp.png",
+            "name":"荣耀Play4 Pro",
+            "introduction":"最高优惠200 ",
+            "price":"¥2699"},
+        {	"goodsId":25,
+            "img":"https://res0.vmallres.com/pimages//product/6901443393251/428_428_7843929F829F1DAC9EFC6A50B6BD0CA9999BA351D2526117mp.png",
+            "name":"荣耀Play4 Pro",
+            "introduction":"最高优惠200 ",
+            "price":"¥¥2699"},
+        {	"goodsId":26,
+            "img":"https://res0.vmallres.com/pimages//product/6901443360734/428_428_3FBC077CC886A1DF10E7F063D8F8C6B9083B641CE06CD0FEmp.png",
+            "name":"荣耀Play4 Pro",
+            "introduction":"最高优惠200 ",
+            "price":"¥¥2699"}
+        ]
+      },
+    { "title" :"笔记本电脑" ,
+        "name":"notebook",
+        "subTitles":["华为Matebook","华为Matebook系列","华为Matebook D系列","华为Matebook E系列","荣耀MagicBook系列","MagicBook Pro系列"],
+        "goods":[
+          {	"goodsId":27,
+              "img":"https://res0.vmallres.com/pimages//frontLocation/content/wD8UzeqLUh39fWLhPTXU.png",
+              "name":"荣耀 Play4T",
+              "introduction":"整点购机赠耳机 ",
+              "price":"¥1199"},
+          
+          {	"goodsId":28,
+              "img":"https://res1.vmallres.com/pimages//product/6901443367511/428_428_D7965415D130ACFEAFB27199DAD0B1295A101BC3FBBC50E4mp.png",
+              "name":"荣耀 Play4T",
+              "introduction":"整点购机赠耳机 ",
+              "price":"¥1199"},
+          {	"goodsId":29,"img":"https://res1.vmallres.com/pimages//product/6901443390243/428_428_CB59BC49A4E1F60D2A1F4C6C349E591D1B3F546807A34180mp.png",
+              "name":"华为畅享20 Pro",
+              "introduction":"赠耳机|享6期免息  ",
+              "price":"¥1999"},
+          {	"goodsId":30,
+              "img":"https://res1.vmallres.com/pimages//product/6901443395675/428_428_CF22C9F22E661EC3B9CD33B7AB0C87746BD13E3E4F2D07E6mp.png",
+              "name":"荣耀30S 5G",
+              "introduction":"8GB版本限量送移动电源  ",
+              "price":"¥2399"},
+          {	"goodsId":31,
+              "img":"https://res1.vmallres.com/pimages//product/6901443364794/428_428_A9AEEFF0772BAB57B50C81170E109BE5271E46B62A782D0Dmp.png",
+              "name":"HUAWEI nova 5z",
+              "introduction":"限时直降300  ",
+              "price":"¥1299"},
+          {	"goodsId":32,
+              "img":"https://res1.vmallres.com/pimages//product/6901443367184/428_428_F9F4EE995E57451AF213E2C51B6C1E181BBFBD19D1C6A57Bmp.png",
+              "name":"荣耀Play4 Pro",
+              "introduction":"最高优惠200 ",
+              "price":"¥2699"},
+          {	"goodsId":33,
+              "img":"https://res1.vmallres.com/pimages//product/6901443367665/428_428_E91F34FC39C42C1D025AC10DC90F76CF6A08043F5B026264mp.png",
+              "name":"荣耀Play4 Pro",
+              "introduction":"最高优惠200 ",
+              "price":"¥2699"},
+          
+          {	"goodsId":34,
+              "img":"https://res1.vmallres.com/pimages//product/6901443330720/428_428_09F234E37A3F711772ACD5FD0155CB0905423FDA9D230BA8mp.png",
+              "name":"荣耀Play4 Pro",
+              "introduction":"最高优惠200 ",
+              "price":"¥2699"},
+          {	"goodsId":35,
+            "img":"https://res1.vmallres.com/pimages//product/6901443389308/428_428_0668B79B1E3EC63B6D01AC512599BC4B9F6D23E3F8B72A02mp.png",
+              "name":"荣耀Play4 Pro",
+              "introduction":"最高优惠200 ",
+              "price":"¥2699"},
+          {	"goodsId":36,
+              "img":"https://res1.vmallres.com/pimages//product/6901443297931/428_428_1556004260028mp.png",
+              "name":"荣耀Play4 Pro",
+              "introduction":"最高优惠200 ",
+              "price":"¥2699"}
+        ]
+      },
+    { "title":"精品平板",
+        "subTitles":["华为MatePad系列","荣耀 V系列","荣耀数字系列","华为畅想系列","荣耀 X系列","荣耀平板V系列"],
+        "goods":[ 
+          {	"goodsId":37,
+              "img":"https://res2.vmallres.com/pimages//product/6901443403639/428_428_DBC6EDFFD6B49C7859BA4050C1C0942C8CFA71AC388EEAD2mp.png",
+              "name":"【华为5G平板】HUAWEI MatePad Pro 5G",
+              "introduction":"限时特惠100 | 6期免息  ",
+              "price":"¥5199"},
+          {	"goodsId":38,"img":"https://res2.vmallres.com/pimages//product/6901443378876/428_428_1E5208A341082F0B17029EE12C6B80CE3F4D2383DC1913CAmp.png",
+              "name":"HUAWEI MatePad 10.4英寸",
+              "introduction":"限时特惠50 | 6期免息   ",
+              "price":"¥2149"},
+          {	"goodsId":39,
+              "img":"https://res2.vmallres.com/pimages//product/6972453166197/428_428_24E5D4E66132B4A04C589AE9537EEF6EB54816135C7D90ECmp.png",
+              "name":"荣耀平板V6 10.4英寸",
+              "introduction":"享6期免息 ",
+              "price":"¥2499"},
+          {	"goodsId":40,
+              "img":"https://res2.vmallres.com/pimages//product/6901443315819/428_428_CC6D09EC69753C356A4369E19A3036800E5F3BAA40E88AFDmp.png",
+              "name":"华为平板 M6 10.8英寸",
+              "introduction":"限时最高优惠200|限量赠底座 ",
+              "price":"¥2499"},
+          {	"goodsId":41,
+              "img":"https://res2.vmallres.com/pimages//product/6901443329588/428_428_BBE972757C37ECDE5CE7F6BDCB2FA925C23D435D94D8DAEEmp.png",
+              "name":"华为平板 M6  8.4英寸",
+              "introduction":"3期免息 | 限量赠皮套 ",
+              "price":"¥2499"},
+          {	"goodsId":42,
+              "img":"https://res2.vmallres.com/pimages//product/6901443265206/428_428_1539243364035mp.png",
+              "name":"荣耀平板5 10.1英寸",
+              "introduction":"高清大屏 8核芯片 ",
+              "price":"¥1199"},
+          
+          {	"goodsId":43,
+              "img":"https://res2.vmallres.com/pimages//product/6901443294763/428_428_340B4B4D53EA60F86FDDFF06F1608016E22F51A4E3FB3211mp.png",
+              "name":"荣耀Play4 Pro",
+              "introduction":"最高优惠200 ",
+              "price":"¥¥2699"},
+          {	"goodsId":44,"img":"https://res1.vmallres.com/pimages//product/6901443389308/428_428_0668B79B1E3EC63B6D01AC512599BC4B9F6D23E3F8B72A02mp.png",
+              "name":"华为平板 M5 青春版 8.0英寸",
+              "introduction":"享3期免息 ",
+              "price":"¥¥1199"},
+          {	"goodsId":45,
+              "img":"https://res2.vmallres.com/pimages//product/6901443192458/428_428_4CA893B8B09D1B15537079CC6065C1C3C24A3E37E2193E23mp.png",
+              "name":"荣耀畅玩平板2 9.6英寸",
+              "introduction":"护眼滤蓝光高清大屏 ",
+              "price":"¥949"},
+          {	"goodsId":46,
+                  "img":"https://res2.vmallres.com/pimages//frontLocation/content/5589542/ivcZC1u56eRDWw1Gn8qh.png",
+                  "name":"华为畅享平板",
+                  "introduction":"享3期免息 ",
+                  "price":"¥1299"}]    
+      },
+    { "title":"智能穿戴",
+        "name":"wear",
+          "subTitles":["智能手表","儿童手表","智能手表","智能健康配件","VR"],
+          "goods":[
+            {	"goodsId":47,
+                "img":"https://res0.vmallres.com/pimages//frontLocation/content/L6mTRHy4KVUJqJMuLTWj.png",
+                "name":"荣耀手表2",
+                "introduction":"限时预订799起  ",
+                "price":"¥1099"},
+            
+            {	"goodsId":48,
+                "img":"https://res3.vmallres.com/pimages//product/6901443357949/428_428_909881D6BCBF027F47EEF3EF6AA5D8407613AA8228980DF8mp.png",
+                "name":"手环 4 Pro",
+                "introduction":"限时直降30  ",
+                "price":"¥369"},
+            {	"goodsId":49,"img":"https://res3.vmallres.com/pimages//product/6901443360277/428_428_EC4E2F03BF69EFDF92BDB185547A4C733BA8AE3781105B39mp.png",
+                "name":"荣耀手表梦幻系列",
+                "introduction":"预订499 3期免息 ",
+                "price":"¥799"},
+            {	"goodsId":50,
+                "img":"https://res3.vmallres.com/pimages//product/6901443280322/428_428_1545443202730mp.png",
+                "name":"手环 B5",
+                "introduction":"限时直降150 ",
+                "price":"¥849"},
+            {	"goodsId":51,
+                "img":"https://res3.vmallres.com/pimages//product/6901443312320/428_428_A770D51DE182394A7777EF3F6D29F70A4DD0E6B3F2E8D252mp.png",
+                "name":"荣耀手环 5",
+                "introduction":"拼团149起 ",
+                "price":"¥169"},
+            {	"goodsId":52,
+                "img":"https://res3.vmallres.com/pimages//product/6901443310593/428_428_1562750353603mp.png",
+                "name":"儿童手表 3",
+                "introduction":"限时直降30  ",
+                "price":"¥¥268"},
+            {	"goodsId":53,
+                "img":"https://res3.vmallres.com/pimages//product/6901443278381/428_428_B82D67C119283942BCC92625B03EAAEB4BC6A7C7065DEBCBmp.png",
+                "name":"荣耀小K 2 儿童手表",
+                "introduction":"七重定位 精准守护  ",
+                "price":"¥249"},
+            
+            {	"goodsId":54,
+                "img":"https://res2.vmallres.com/pimages//product/6901443294763/428_428_340B4B4D53EA60F86FDDFF06F1608016E22F51A4E3FB3211mp.png",
+                "name":"儿童手表 3 Pro 超能版",
+                "introduction":"限时直降50 ",
+                "price":"¥938"},
+            {	"goodsId":55,"img":"https://res3.vmallres.com/pimages//product/6901443275656/428_428_1545200844844mp.png",
+                "name":"荣耀手表魔法系列",
+                "introduction":"享3期免息 ",
+                "price":"¥¥199"}]    
+      }
+    
+ ]
+
