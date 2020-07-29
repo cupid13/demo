@@ -159,13 +159,13 @@ li {
   margin: 0 auto; }
 
 /* 新品 */
-#newProduct h3 {
+#newProduct .title {
   visibility: hidden; }
 
 #newProduct .goodsList .list {
+  margin-right: px;
   width: 290px;
   height: 200px;
-  margin: 0;
   padding: 0; }
 
 #newProduct .goodsList .list img {
@@ -178,7 +178,6 @@ li {
   float: left;
   width: 230px;
   height: 592px;
-  margin: 0;
   padding: 0; }
 
 #hot .list:first-child img {
@@ -188,7 +187,7 @@ li {
 
 /* 笔记本电脑,手机第一张 */
 #mobile .list:first-child, #notebook .list:first-child {
-  margin: 0;
+  margin: 5px;
   padding: 0; }
 
 #mobile .list:first-child img,
@@ -202,7 +201,6 @@ li {
   float: left;
   width: 472px;
   height: 290px;
-  margin: 0;
   padding: 0; }
 
 #wear .list:first-child img {
@@ -229,7 +227,6 @@ li {
   background-color: #f3f3f3; }
 
 #goods .list img {
-  /* margin-top: 20px; */
   width: 150px;
   height: 150px; }
 
@@ -267,8 +264,20 @@ li {
   height: 100%;
   margin-top: 80px; }
 
-.MobilePhone {
-  min-height: 600px; }
+#goods .title {
+  width: 1200px;
+  height: 50px;
+  line-height: 50px; }
+
+#goods .title a {
+  font-size: 20px;
+  padding: 0 10px;
+  float: left; }
+
+#goods .menu li a {
+  font-size: 12px;
+  padding: 0 10px;
+  float: left; }
 
 .foot-warp {
   width: 1200px;
@@ -344,20 +353,20 @@ li {
   text-align: center;
   background-color: white; }
 
-/* .nav_right dl,.right_bottom{
-    width: 82px;
-    height: 90px;
-    border: 1px solid #b0b0b0;
-    padding: 15px 0;
-    margin: 0;
-} */
+.nav_right dl {
+  width: 82px;
+  height: 90px;
+  border: 1px solid #b0b0b0;
+  padding: 15px 0;
+  margin: 0; }
+
 .nav_right dl dt img {
   vertical-align: center;
   width: 30px;
   height: 30px;
   margin-bottom: 5px; }
 
-.navCar .right_bottom {
+.right_bottom {
   width: 84px;
   height: 92px;
   position: fixed;

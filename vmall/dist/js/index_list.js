@@ -6,9 +6,10 @@ define(["jquery", "jquery-cookie"], function ($) {
       success: function (arr) {
         for (let i = 0; i < arr.length; i++) {
           var node = $(`<div class="pro" id="${arr[i].name}">
-                        <h3><a href="#">${arr[i].type} </a>
-                        <ul class="menu-panel">     
-                        </ul></h3>
+                        <div class="title"><a href="#">${arr[i].type} </a>
+                        <ul class="menu">    
+                        </ul>
+                        </div>
                         <div class="goodsList" >
                         </div>
                         </div>
@@ -16,7 +17,8 @@ define(["jquery", "jquery-cookie"], function ($) {
           node.appendTo($(".goods"));
           var subTitles = arr[i].goodsType;
           for (let l = 0; l < subTitles.length; l++) {
-            $(`<li>${subTitles[l].series}</li>`).appendTo(node.find(".menu-panel"));
+            console.log(subTitles[l].series)
+            $(`<li><a target='_blank' href='list.html?list=${subTitles[l].list}'>${subTitles[l].series}</a></li>`).appendTo(node.find(".menu"));
             var goods = subTitles[l].goods;
             for (let j = 0; j < goods.length; j++) {
               $(`<div class="list"  index="${goods[j].goodsId}">
