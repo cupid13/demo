@@ -1,0 +1,67 @@
+html body {
+  background-color: ghostwhite; }
+
+#seriesList {
+  width: 1200px;
+  margin: 0 auto; }
+  #seriesList .listTop {
+    background-color: white;
+    width: 1200px;
+    height: 210px;
+    margin: 20px 0; }
+    #seriesList .listTop p {
+      border-bottom: 1px solid gainsboro;
+      line-height: 33px;
+      font-size: 12px;
+      color: #3a3a3a;
+      margin-left: 20px;
+      font-family: "Helvetica Neue",Helvetica,Arial,"Microsoft Yahei","Hiragino Sans GB","Heiti SC","WenQuanYi Micro Hei",sans-serif; }
+      #seriesList .listTop p:last-child {
+        border-bottom: 0; }
+      #seriesList .listTop p span {
+        margin: 0 5px; }
+
+.series::after {
+  content: "";
+  clear: both;
+  height: 0;
+  overflow: hidden;
+  visibility: hidden;
+  display: block; }
+
+.series .list {
+  width: 230px;
+  height: 360px;
+  background-color: white;
+  float: left;
+  margin: 5px;
+  padding: 16px;
+  text-align: center; }
+  .series .list img {
+    display: inline-block;
+    width: 180px;
+    height: 180px; }
+  .series .list .name {
+    font-size: 14px;
+    overflow: hidden;
+    color: #333;
+    font-size: 14px;
+    text-overflow: ellipsis; }
+  .series .list .price {
+    display: inline-block;
+    color: red;
+    font-size: 14px;
+    line-height: 20px; }
+  .series .list h5 {
+    margin-top: 4px; }
+    .series .list h5 span {
+      line-height: 16px;
+      padding: 0 5px;
+      border: 1px solid red;
+      color: red;
+      font-size: 12px;
+      font-weight: normal; }
+  .series .list h6 em {
+    color: 12px;
+    margin-top: 8px;
+    font-style: normal; }
