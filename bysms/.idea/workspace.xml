@@ -17,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1nF57z7uYCFYmBSL8Ypzvh30jvW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -26,7 +30,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager" selected="Django server.bysms">
@@ -95,6 +99,7 @@
       <workItem from="1610972835867" duration="4584000" />
       <workItem from="1610984214735" duration="176000" />
       <workItem from="1610984583127" duration="2017000" />
+      <workItem from="1611233114747" duration="40000" />
     </task>
     <servers />
   </component>
@@ -118,10 +123,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="1012" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1610975270165" />
-    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1610985824542">
+    <state x="548" y="167" key="FileChooserDialogImpl" timestamp="1611233142378">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610985824542" />
+    <state x="548" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1611233142378" />
     <state width="1062" height="350" key="GridCell.Tab.0.bottom" timestamp="1610986583307">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
